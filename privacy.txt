@@ -1,0 +1,58 @@
+Last updated: July 3, 2026
+
+Calcwise ("the App", "we", "us") is a finance calculator app published for use in India. This Privacy Policy explains what information the App does and does not collect, and your rights regarding it under the Digital Personal Data Protection Act, 2023 ("DPDP Act") and other applicable Indian law.
+
+1. WHAT THIS APP DOES NOT COLLECT
+
+Calcwise does not require you to create an account, sign in, or provide any personal information to use it. Every calculator (EMI, SIP, PPF, Income Tax, and all others) runs entirely on your device. Any figures you type in — loan amounts, income, investment values, interest rates, or anything else — are used only to compute a result in real time on your own device. They are never stored in any account, uploaded, or transmitted to us or anyone else. Recent calculations are kept only in the App's on-device History (see Section 2), which you can clear at any time.
+
+We do not collect your name, phone number, email address, financial account details, location, or any other personal or sensitive personal data.
+
+2. WHAT IS STORED ON YOUR DEVICE
+
+The App saves a small amount of data locally on your device, using standard on-device storage:
+ - Your chosen theme (Light / Dark / System)
+ - Calculators you mark as favorites
+ - Your recent calculation history (the inputs you entered and the headline result), so you can revisit past calculations — removable individually or all at once via History → Clear
+
+This information stays on your device. It is not linked to your identity, not transmitted to us, and not shared with any third party. Uninstalling the App removes it.
+
+3. ADVERTISING
+
+Calcwise shows banner advertisements served by Google AdMob. In connection with serving ads, Google AdMob may collect your device's Advertising ID and certain technical and usage data (such as device model, IP address, and general ad-interaction data) to select, deliver and measure ads. This data is processed by Google under Google's own Privacy Policy (https://policies.google.com/privacy).
+
+We ourselves do not receive, store, or have access to any data collected for advertising purposes — it is processed directly between your device and Google.
+
+If you are in a region where consent is required (such as the EEA or UK), the App shows Google's consent form before serving ads, and you can choose non-personalized ads. You can also opt out of personalized advertising at any time via your device's settings (Settings → Google → Ads → "Opt out of Ads Personalization", or Settings → Privacy → Apple Advertising on iOS, or the equivalent on your device).
+
+4. PERMISSIONS
+
+The App requests only the minimum device permissions needed for it to run — internet access is used for ad delivery and app updates. It does not request access to your contacts, camera, microphone, storage of personal files, or location.
+
+5. CHILDREN'S PRIVACY
+
+Calcwise is a general-purpose financial calculator intended for a general audience and is not directed at children. We do not knowingly collect personal data from children. If you believe a child has provided us with personal data, please contact us using the details below so we can address it.
+
+6. YOUR RIGHTS UNDER THE DPDP ACT, 2023
+
+Because the App does not collect or store personal data on any server, there is generally no personal data of yours for us to access, correct, or erase. Where any such data does exist (for example, if you contact us directly by email), you have the right to:
+ - Access a summary of personal data we hold about you and how it is processed;
+ - Request correction, completion, or erasure of that personal data;
+ - Withdraw consent at any time, where processing is based on consent;
+ - Nominate another individual to exercise these rights on your behalf in the event of death or incapacity;
+ - Register a grievance with us, and if unresolved, with the Data Protection Board of India.
+
+To exercise any of these rights, contact us using the details in Section 8.
+
+7. CHANGES TO THIS POLICY
+
+If this policy changes — for example, if advertising or any new data-collecting feature is added — we will update the "Last updated" date above and, where the change is significant, note it within the App's Settings screen before or alongside the update that introduces it.
+
+8. CONTACT US
+
+If you have questions about this Privacy Policy or wish to exercise any of the rights described above, contact:
+
+Avaneesh
+Email: avaneeshsingh365@gmail.com
+
+(Replace this with a dedicated support email if you set one up later — worth doing before wide release, so this doesn't stay tied to a personal inbox.)
