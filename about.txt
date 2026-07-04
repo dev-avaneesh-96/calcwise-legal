@@ -10,7 +10,7 @@ THE PURPOSE
 
 • Compare, don't assume — put two loan offers side by side, check old vs new tax regime, flat vs reducing rate, or what stepping up a SIP each year changes.
 
-• Private by design — everything is calculated on your device. No account, no sign-in, no data collection, no ads. Your income, loans and investments are nobody's business but yours.
+• Private by design — every calculation runs on your device; we never ask you to sign in and never collect your financial inputs. The app shows ads (served by Google AdMob) and is free because of them. Your income, loans and investments are nobody's business but yours.
 
 • Works everywhere — no internet needed. Every calculator works offline, in ₹ with lakhs and crores, using current Indian rules (FY 2025-26 tax slabs, capital gains rates, scheme limits).
 
